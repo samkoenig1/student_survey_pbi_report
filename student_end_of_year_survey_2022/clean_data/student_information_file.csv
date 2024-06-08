@@ -1,0 +1,521 @@
+,participant_id,cohort,region,person_of_color,first_gen,low_income,gender
+0,2,Program Online Spring 2022,NATIONAL,Not Person of Color,Not First Generation,Not Low Income,Male
+1,8,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+2,9,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+3,10,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Male
+4,11,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+5,12,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+6,13,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Male
+7,14,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+8,15,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Male
+9,17,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Male
+10,19,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+11,20,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+12,21,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+13,22,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+14,24,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+15,25,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+16,26,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+17,27,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+18,28,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+19,29,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Male
+20,30,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Male
+21,31,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+22,32,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+23,33,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+24,34,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+25,36,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+26,37,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+27,38,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Male
+28,42,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+29,43,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+30,44,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+31,45,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+32,46,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+33,55,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+34,56,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+35,57,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+36,58,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+37,59,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Male
+38,60,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+39,61,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+40,62,RU-N Spring 2022,NJ,Person of Color,First Generation,Not Low Income,Female
+41,63,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+42,67,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+43,69,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+44,70,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+45,71,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+46,72,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+47,74,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+48,81,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+49,85,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+50,86,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+51,87,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+52,88,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+53,89,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+54,90,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+55,92,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+56,93,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+57,96,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Male
+58,98,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+59,99,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Male
+60,103,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+61,104,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+62,105,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+63,106,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+64,107,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+65,108,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+66,109,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+67,117,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+68,118,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+69,119,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+70,120,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+71,121,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+72,122,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+73,123,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+74,124,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+75,125,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+76,126,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+77,127,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+78,128,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+79,129,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+80,130,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+81,131,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+82,132,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+83,133,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+84,134,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+85,135,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Non-binary
+86,136,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Male
+87,137,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+88,138,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+89,139,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+90,140,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+91,142,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+92,143,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+93,144,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+94,145,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Female
+95,146,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+96,147,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+97,148,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Female
+98,149,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+99,150,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+100,151,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+101,152,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Male
+102,153,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+103,154,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+104,155,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+105,156,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+106,157,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+107,158,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+108,159,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+109,160,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+110,161,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+111,162,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+112,163,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+113,164,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+114,166,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Female
+115,167,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+116,168,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+117,169,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+118,170,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+119,171,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Prefer not to say
+120,172,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+121,173,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+122,200,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+123,261,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+124,264,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+125,279,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+126,285,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Male
+127,337,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+128,357,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+129,378,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+130,379,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Female
+131,380,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+132,381,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Female
+133,382,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+134,383,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+135,384,NLU Spring 2022,CHI,Person of Color,First Generation,Not Low Income,Male
+136,385,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Male
+137,386,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Female
+138,387,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+139,388,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+140,389,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Female
+141,390,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+142,391,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Female
+143,392,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+144,393,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Female
+145,394,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+146,395,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+147,396,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+148,397,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+149,398,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+150,399,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+151,400,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+152,401,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+153,402,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+154,403,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+155,404,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+156,405,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+157,406,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+158,407,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+159,408,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+160,409,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Male
+161,410,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+162,411,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+163,412,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Female
+164,413,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+165,414,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+166,415,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+167,416,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Low Income,Male
+168,417,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+169,418,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+170,419,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+171,420,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+172,421,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+173,422,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+174,423,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+175,424,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+176,425,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+177,426,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Male
+178,427,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+179,428,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+180,429,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+181,430,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+182,431,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+183,432,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+184,433,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+185,434,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Female
+186,435,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+187,436,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+188,437,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+189,438,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+190,439,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+191,440,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+192,441,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+193,442,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+194,443,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+195,444,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+196,445,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+197,446,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+198,447,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+199,448,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+200,449,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+201,450,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+202,451,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Male
+203,452,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+204,453,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Male
+205,454,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+206,455,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+207,456,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+208,457,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+209,458,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+210,459,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+211,460,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+212,461,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+213,462,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+214,463,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+215,464,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+216,465,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+217,466,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+218,467,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+219,468,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+220,469,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+221,470,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+222,471,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+223,472,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+224,473,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Low Income,Female
+225,474,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Male
+226,475,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+227,476,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+228,477,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+229,478,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+230,479,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+231,480,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Male
+232,481,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+233,482,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Female
+234,483,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+235,484,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+236,485,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+237,486,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+238,487,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Female
+239,488,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+240,489,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+241,490,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Male
+242,491,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+243,492,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+244,493,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+245,494,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+246,495,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+247,496,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Low Income,Female
+248,497,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+249,498,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Female
+250,499,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+251,500,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Low Income,Female
+252,501,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+253,502,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+254,503,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+255,504,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+256,505,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+257,506,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+258,507,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+259,508,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+260,509,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+261,510,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+262,511,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Non-binary
+263,512,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Male
+264,513,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+265,514,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+266,515,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Low Income,Male
+267,516,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+268,517,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+269,518,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+270,519,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+271,520,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+272,521,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+273,522,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+274,523,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+275,524,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Not Low Income,Female
+276,525,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+277,526,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+278,527,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+279,528,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+280,529,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+281,530,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+282,531,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+283,532,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+284,533,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Not Low Income,Male
+285,534,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+286,535,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+287,536,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+288,537,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+289,538,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+290,539,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+291,540,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+292,541,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+293,542,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+294,543,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+295,544,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+296,545,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+297,546,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Low Income,Female
+298,547,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+299,548,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+300,549,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+301,550,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Female
+302,551,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+303,552,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+304,553,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+305,554,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+306,555,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+307,556,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+308,557,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+309,558,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+310,559,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+311,560,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+312,561,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+313,562,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+314,563,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Low Income,Male
+315,564,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+316,565,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+317,566,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+318,567,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Male
+319,568,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+320,569,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Female
+321,570,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+322,571,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+323,572,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+324,573,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+325,574,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Male
+326,575,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Not Low Income,Male
+327,576,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+328,577,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+329,578,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+330,579,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+331,580,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+332,581,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Female
+333,582,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+334,583,San Jose Spring 2022,BAY,Person of Color,First Generation,Not Low Income,Female
+335,584,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Female
+336,585,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+337,586,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+338,587,Program Online Spring 2022,NATIONAL,Not Person of Color,Not First Generation,Not Low Income,Male
+339,588,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+340,589,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Not Low Income,Female
+341,590,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+342,591,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Non-binary
+343,592,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+344,593,San Jose Spring 2022,BAY,Person of Color,First Generation,Low Income,Male
+345,594,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+346,595,Program Online Spring 2022,NATIONAL,Not Person of Color,Not First Generation,Not Low Income,Female
+347,596,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+348,597,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+349,598,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+350,599,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Low Income,Female
+351,600,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Low Income,Female
+352,601,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+353,602,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+354,603,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+355,604,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+356,605,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Not Low Income,Female
+357,606,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Male
+358,607,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+359,608,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+360,609,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+361,610,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+362,611,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+363,612,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+364,613,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+365,614,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+366,615,Program Online Spring 2022,NATIONAL,Not Person of Color,Not First Generation,Not Low Income,Female
+367,616,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Female
+368,617,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Female
+369,618,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Male
+370,619,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+371,620,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Not Low Income,Female
+372,621,Lehman Spring 2022,NYC,Person of Color,First Generation,Not Low Income,Female
+373,622,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+374,623,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+375,624,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+376,625,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Male
+377,626,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Female
+378,627,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+379,628,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Low Income,Female
+380,629,San Jose Spring 2022,BAY,Not Person of Color,Not First Generation,Not Low Income,Male
+381,630,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+382,631,Program Online Spring 2022,NATIONAL,Not Person of Color,First Generation,Not Low Income,Female
+383,632,Program Online Spring 2022,NATIONAL,Person of Color,Not First Generation,Low Income,Male
+384,633,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Low Income,Female
+385,634,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+386,635,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Low Income,Male
+387,636,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+388,637,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+389,638,Lehman Spring 2022,NYC,Not Person of Color,First Generation,Not Low Income,Female
+390,639,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Not Low Income,Female
+391,641,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+392,642,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Female
+393,643,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Female
+394,644,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Low Income,Male
+395,645,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+396,646,San Jose Spring 2022,BAY,Not Person of Color,First Generation,Not Low Income,Male
+397,647,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Female
+398,648,Program Online Spring 2022,NATIONAL,Person of Color,First Generation,Low Income,Male
+399,649,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Male
+400,651,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Female
+401,652,Lehman Spring 2022,NYC,Person of Color,First Generation,Low Income,Male
+402,653,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Female
+403,654,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Not Low Income,Male
+404,655,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+405,656,Lehman Spring 2022,NYC,Person of Color,Not First Generation,Not Low Income,Female
+406,657,RU-N Spring 2022,NJ,Person of Color,First Generation,Not Low Income,Female
+407,658,RU-N Spring 2022,NJ,Person of Color,First Generation,Low Income,Male
+408,659,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Female
+409,660,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Male
+410,661,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Female
+411,662,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Female
+412,663,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+413,664,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Female
+414,665,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Female
+415,666,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Low Income,Female
+416,667,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Not Low Income,Male
+417,668,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Female
+418,669,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Female
+419,670,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Not Low Income,Female
+420,671,RU-N Spring 2022,NJ,Not Person of Color,First Generation,Not Low Income,Male
+421,672,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Not Low Income,Male
+422,673,San Jose Spring 2022,BAY,Person of Color,Not First Generation,Not Low Income,Male
+423,674,RU-N Spring 2022,NJ,Not Person of Color,Not First Generation,Not Low Income,Female
+424,675,RU-N Spring 2022,NJ,Person of Color,Not First Generation,Low Income,Female
+425,676,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+426,677,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+427,678,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Male
+428,679,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+429,680,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+430,681,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+431,682,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+432,683,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+433,684,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+434,685,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+435,686,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+436,687,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+437,688,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+438,689,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+439,690,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+440,691,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+441,692,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+442,693,NLU Spring 2022,CHI,Person of Color,First Generation,Not Low Income,Female
+443,694,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+444,695,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+445,696,NLU Spring 2022,CHI,Person of Color,First Generation,Not Low Income,Male
+446,697,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+447,698,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+448,699,Lehman Spring 2022,NYC,Not Person of Color,Not First Generation,Not Low Income,Female
+449,700,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+450,701,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+451,702,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+452,703,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+453,704,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+454,705,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+455,706,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+456,707,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Low Income,Male
+457,708,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+458,709,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+459,710,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Male
+460,711,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+461,712,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+462,713,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+463,714,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+464,715,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+465,716,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+466,717,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+467,718,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+468,719,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+469,720,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+470,721,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+471,722,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Male
+472,723,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+473,724,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Male
+474,725,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Low Income,Female
+475,726,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+476,727,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+477,728,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+478,729,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+479,730,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+480,731,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+481,732,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+482,733,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+483,734,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+484,735,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+485,736,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Male
+486,737,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Low Income,Male
+487,738,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+488,739,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+489,740,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+490,741,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Low Income,Male
+491,742,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Male
+492,743,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+493,744,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+494,745,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Male
+495,746,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+496,747,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Male
+497,748,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+498,749,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+499,750,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+500,751,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+501,752,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+502,753,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+503,754,NLU Spring 2022,CHI,Person of Color,Not First Generation,Not Low Income,Female
+504,755,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Female
+505,756,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+506,757,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Prefer not to say
+507,758,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+508,759,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+509,760,NLU Spring 2022,CHI,Person of Color,First Generation,Not Low Income,Female
+510,761,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+511,762,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+512,763,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Female
+513,764,NLU Spring 2022,CHI,Not Person of Color,First Generation,Not Low Income,Female
+514,765,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Female
+515,766,NLU Spring 2022,CHI,Person of Color,First Generation,Low Income,Male
+516,767,NLU Spring 2022,CHI,Not Person of Color,First Generation,Low Income,Female
+517,768,NLU Spring 2022,CHI,Not Person of Color,Not First Generation,Not Low Income,Male
+518,769,NLU Spring 2022,CHI,Person of Color,Not First Generation,Low Income,Female
+519,770,NLU Spring 2022,CHI,Person of Color,First Generation,Not Low Income,Female
